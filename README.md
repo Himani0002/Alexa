@@ -52,7 +52,7 @@ python your_script_name.py
 
 ## Author
 `Himani Gohil`
-GitHub: 'https://github.com/Himani0002/Himani0002.git'
+~https://github.com/Himani0002/Himani0002.git
 
 
 
