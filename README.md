@@ -21,7 +21,7 @@ Ensure you have the following libraries installed before running the script:
 
   ## Install these dependencies using pip:
   
-  pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
+  `pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes`
 
 ## How to Use
 
@@ -50,6 +50,9 @@ python your_script_name.py
 - If encountering issues with speech recognition, ensure your microphone is properly configured and accessible.
 - Modify the voice settings or behavior as needed in the script.
 
+## Author
+`Himani Gohil`
+GitHub: 'https://github.com/Himani0002/Himani0002.git'
 
 
 
