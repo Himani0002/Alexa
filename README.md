@@ -51,8 +51,8 @@ python your_script_name.py
 - Modify the voice settings or behavior as needed in the script.
 
 ## Author
-`Himani Gohil`
-~https://github.com/Himani0002/Himani0002.git
+- `Himani Gohil`
+- `https://github.com/Himani0002/Himani0002.git`
 
 
 
