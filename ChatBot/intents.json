@@ -1,0 +1,49 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey", "What's up", "Good Day"],
+            "responses": ["Hello", "Hello Sir!"]
+        },
+        {
+            "tag": "age",
+            "patterns": ["How old are you?", "What is your age?"],
+            "responses": ["I was created yesterday!"]
+        },
+        {
+            "tag": "name",
+            "patterns": ["What is your name?", "Who are you?"],
+            "responses": ["I am a chatbot!", "You can call me Chatbot."]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Goodbye", "See you later", "Bye"],
+            "responses": ["Goodbye!", "Have a great day!"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful"],
+            "responses": ["You're welcome!", "Happy to help!"]
+        },
+        {
+            "tag": "no_answer",
+            "patterns": [],
+            "responses": ["Sorry, I don't understand that.", "Can you please rephrase?"]
+        },
+        {
+            "tag": "hours",
+            "patterns": ["What are your hours?", "When are you open?", "What are your working hours?"],
+            "responses": ["We are open 24/7!"]
+        },
+        {
+            "tag": "services",
+            "patterns": ["What services do you offer?", "What do you do?"],
+            "responses": ["We offer various chatbot services including answering questions, providing information, and more."]
+        },
+        {
+            "tag": "location",
+            "patterns": ["Where are you located?", "What is your location?", "Where can I find you?"],
+            "responses": ["We are located in the digital world, accessible from anywhere!"]
+        }
+    ]
+}
